@@ -1,0 +1,19 @@
+Library/
+Temp/
+Logs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+# [Pp]ackages/ - Uncomment if you are sure you don't need it
